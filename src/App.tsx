@@ -36,7 +36,11 @@ function App() {
        onAuthRequired={customeAuthHandler}>
      <h1>Rudrani</h1>
      <Header />
+     <h1> kshitij</h1>
+     <h1> rutuparna</h1>
      <h1>Sagar</h1>
+     <h1>Sagar 1</h1>
+     <h1>Sagar 1</h1>
       <Switch>
         <Route path='/' exact> 
           <Redirect to='/home'  />

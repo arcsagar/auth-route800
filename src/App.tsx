@@ -36,6 +36,7 @@ function App() {
        onAuthRequired={customeAuthHandler}>
      
      <Header />
+     <h1>Sagar</h1>
       <Switch>
         <Route path='/' exact> 
           <Redirect to='/home'  />

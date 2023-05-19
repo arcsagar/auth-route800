@@ -43,7 +43,7 @@ const Header = () => {
     return (
         <nav className="flex flex-row bg-green-300 p-1 py-4">
        <div className="flex flex-row justify-around w-1/2">
-        <span className=" text-teal-600 w-24 rounded "> Book Library </span>
+        <span className=" text-teal-600 w-24 rounded "> My First Project Book Library </span>
       {loginButton}
        {/* <NavLink to='/home'> home </NavLink> */}
        </div>

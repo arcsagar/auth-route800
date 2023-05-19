@@ -39,7 +39,7 @@ function App() {
      <h1> kshitij</h1>
      <h1> rutuparna</h1>
      <h1>Sagar main-s1</h1>
-     <h1>RUDRANI</h1>
+     <h1>RUDRANI main-r</h1>
       <Switch>
         <Route path='/' exact> 
           <Redirect to='/home'  />

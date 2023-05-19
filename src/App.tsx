@@ -34,7 +34,7 @@ function App() {
       oktaAuth={oktaAuth} 
       restoreOriginalUri={restoreOriginalUri} 
        onAuthRequired={customeAuthHandler}>
-     <h1>Rudrani</h1>
+     
      <Header />
 
      <h1> kshitij main-k-change1</h1>
